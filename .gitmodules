@@ -1,0 +1,2 @@
+[submodule "backend"]
+	url = https://github.com/<owner>/backend.git
